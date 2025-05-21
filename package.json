@@ -1,0 +1,28 @@
+{
+  "name": "getacademydemo",
+  "author": {
+    "name": "Pablo David Garaguso",
+    "email": "pablo.garaguso@gmail.com",
+    "url": "https://pdgaraguso.com",
+    "x":"@GaragusoPD",
+    "twitter": "https://x.com/garagusopd",
+    "linkedin": "https://www.linkedin.com/in/garaguso/"
+  },
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pinia": "^3.0.2",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.3.5"
+  }
+}
