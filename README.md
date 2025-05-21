@@ -37,3 +37,4 @@ Created by Pablo D. Garaguso.
 * [Vue-Router](https://router.vuejs.org/)
 * [Vite building tool](https://vite.dev/)
 * Vue 3 Design Patterns and Best Practices: [Amazon](https://amzn.to/3ZuAR50) | [Adlibris](https://www.adlibris.com/nb/bok/vuejs-3-design-patterns-and-best-practices-9781803238074)
+* [DigitalOcean Referral Link](https://m.do.co/c/55e59bda6a70)
